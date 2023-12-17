@@ -1,0 +1,16 @@
+---
+:id: 204074400
+:submitters:
+- :name: Rachel Guan
+  :email: rui.guan@yale.edu
+- :name: Emily Goldfarb
+  :email: emily.goldfarb@yale.edu
+- :name: Kelly Wang
+  :email: kelly.wang@yale.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-19 09:01:03.794560000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-19 02:01:03.794560000 Z
+:status: processed
+:score: 84.0
